@@ -3,7 +3,7 @@ glyph_name
 
 A library for computing Unicode sequences from glyph names
 according to the Adobe Glyph Naming convention:
-http://www.adobe.com/devnet/opentype/archives/glyph.html
+https://github.com/adobe-type-tools/agl-specification
 
 (Rules pertaining to the Zapf Dingbats font are ignored.)
 
